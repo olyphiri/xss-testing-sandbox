@@ -1,5 +1,7 @@
 # xss-testing-sandbox
-_Currently in development. Do not use._
+_Currently in development. Do not use._bvater
+the peter cde 2 
+a apt act
 
 This is a game about [XSS](https://en.wikipedia.org/wiki/Cross-site_scripting), cross site scripting.<br>
 This is remake of the [Google XSS game](https://xss-game.appspot.com)! **Currently in development**.
